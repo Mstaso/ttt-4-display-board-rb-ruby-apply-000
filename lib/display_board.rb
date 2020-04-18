@@ -12,3 +12,4 @@ def display_board (x)
   puts " #{x[6]} | #{x[7]} | #{x[8]}  "
 end
 
+
